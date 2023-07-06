@@ -1,0 +1,15 @@
+{
+  "short_name": "Western Union",
+  "name": "Send and Track Money Online Now | Western Union",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x64 192x32 192x24 192x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
