@@ -1,0 +1,76 @@
+/* Navigation.css */
+
+header {
+    background-color: black;
+    padding: 10px;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-image {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+  }
+  
+  .logo-title {
+    color: white;
+    font-size: 16px;
+  }
+  
+  .menu-section {
+    display: flex;
+  }
+  
+  .menu-link {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  .menu-link:hover {
+    text-decoration: underline;
+    color: yellow;
+  }
+  
+  .language-section {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+  }
+  
+  .globe-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+  }
+  
+  .language-section-text {
+    color: white;
+    font-size: 14px;
+  }
+  
+  .auth-section {
+    display: flex;
+  }
+  
+  .auth-link {
+    color: yellow;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  .auth-link:hover {
+    color: darkyellow;
+    cursor: pointer;
+  }
+  

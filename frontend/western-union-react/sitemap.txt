@@ -2,13 +2,13 @@ Key sites identified
 Home Page: https://www.westernunion.com/us/en/home.html
 Send Money: https://www.westernunion.com/us/en/web/send-money/start
 Contact Us: https://www.westernunion.com/us/en/contact-us.html
-Account Profile: https://www.westernunion.com/us/en/account/app/profile
-Transaction History: https://www.westernunion.com/us/en/web/account/history
-MyWU: https://www.westernunion.com/us/en/account/app/mywu
 Mobile App: https://www.westernunion.com/us/en/mobile-app.html
 Receive Money: https://www.westernunion.com/us/en/receive-money.html
 Currency Converter: https://www.westernunion.com/us/en/currency-converter.html
 Fraud Awareness: https://www.westernunion.com/us/en/fraudawareness/fraud-home.html
+Account Profile: https://www.westernunion.com/us/en/account/app/profile
+Transaction History: https://www.westernunion.com/us/en/web/account/history
+MyWU: https://www.westernunion.com/us/en/account/app/mywu
 
 All sites of western union gathered using online sitemap tool
 https://www.westernunion.com/us/en/home.html		
